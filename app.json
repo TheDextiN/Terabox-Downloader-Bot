@@ -1,0 +1,45 @@
+{
+  "name": "Terabox-Downloader",
+  "description": "A Telegram Bot to Download file from Terabox Links.",
+  "keywords": [
+        "telegram",
+        "files"
+    ],
+  "repository": "https://github.com/TheDextiN/Terabox-Downloader-Bot",
+  "success_url": "/",
+  "logo": "https://graph.org/file/c077d950f10061074216e.png",
+  "env": {
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org"
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org"
+    },
+    "BOT_TOKEN": {
+      "description": "Get this value from @BotFather"
+    },
+    "REDIS_HOST": {
+      "description": "Get database URL from redis.io"
+    },
+    "REDIS_PORT": {
+      "description": "Get redis database port from redis.io"
+    },
+    "REDIS_PASSWORD": {
+      "description": "Get redis database password from redis.io"
+    },
+    "COOKIE": {
+      "description": "Store your terabox cookies (Video coming soon)."
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
