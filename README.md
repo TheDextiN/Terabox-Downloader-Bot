@@ -33,7 +33,7 @@ Here're some of the project's best features:
 - `PRIVATE_CHAT_ID`(Required) - Private channel id where you can store all files. set this in config.py file.
 - `USER_CHANNEL`(Required) - User notification channel id. set this in config.py file.
 - `DUMP_CHANNEL`(Required) - Terabox links dump channel. set this in config.py file.
-- `COOKIE`(Required) - Store your terabox cookies (Video coming soon).
+- `COOKIE`(Required) - Store your terabox cookies (watch video down below).
 - `ADMINS`(Required) - Telegram id of bot owner admins which can control ban unban and no time limit for them. set this in config.py file.
 
 <h2>How to get cookies</h2>
