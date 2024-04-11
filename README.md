@@ -36,6 +36,13 @@ Here're some of the project's best features:
 - `COOKIE`(Required) - Store your terabox cookies (Video coming soon).
 - `ADMINS`(Required) - Telegram id of bot owner admins which can control ban unban and no time limit for them. set this in config.py file.
 
+<h2>How to get cookies</h2>
+
+
+https://github.com/TheDextiN/Terabox-Downloader-Bot/assets/141669375/aaaca33e-0262-4a16-9940-95b1490faba3
+
+
+
 <p>Commands</p>
 
 ```
