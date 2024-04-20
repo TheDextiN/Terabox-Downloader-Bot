@@ -14,12 +14,11 @@ Here're some of the project's best features:
 - 1 minute anti spam
 - User count
 - Broadcast
-- Help command
-- Ban user
-- Unban user
-- Link dump channel
+- Ban / Unban user
 - Database channel
 - New user notification
+- Shortner (Paid repo)
+- Premium subscription - no ads (Paid repo)
 
 **Environment Variables**
 
