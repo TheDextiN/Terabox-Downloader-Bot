@@ -94,7 +94,7 @@ python3 main.py
 - [Telegram](https://t.me/DextiNBots)
 
 <h2>💫 Credits:</h2>
-This bot is updated by <a href="https://t.me/Ninjax_xD">@DextiN_xD  </a>
+This bot is updated by <a href="https://t.me/Ninjax_xD">@Ninjax_xD  </a>
 
 This bot is created by <a href="https://t.me/r0ld3x">@r0ld3x  </a>
 
